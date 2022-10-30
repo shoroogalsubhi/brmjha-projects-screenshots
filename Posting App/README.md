@@ -4,13 +4,11 @@ A simple app for adding and liking, sharing posts.
 
 
 # Screenshot
-The First Try                |      The Second Try
+Sign in                |      Sign up
 :-------------------------:|:-------------------------:
-https://github.com/shoroogalsubhi/brmjha-projects-screenshots/blob/main/screenshots/sign%20in.png
-<img src="https://github.com/shoroogalsubhi/brmjha-projects-screenshots/blob/main/screenshots/sign%20in.png" width="200"> | <img src="https://github.com/shoroogalsubhi/Projects/blob/main/dice_roller/screenshot/DiceRoller1.png" width="200"> 
-The First Try                |      The Second Try
-<img src="https://github.com/shoroogalsubhi/Projects/blob/main/dice_roller/screenshot/DiceRoller1.png" width="200"> | <img src="https://github.com/shoroogalsubhi/Projects/blob/main/dice_roller/screenshot/DiceRoller1.png" width="200"> 
-The First Try                |      The Second Try
-<img src="https://github.com/shoroogalsubhi/Projects/blob/main/dice_roller/screenshot/DiceRoller1.png" width="200"> | <img src="https://github.com/shoroogalsubhi/Projects/blob/main/dice_roller/screenshot/DiceRoller1.png" width="200"> 
-
+<img src="https://github.com/shoroogalsubhi/brmjha-projects-screenshots/blob/main/screenshots/sign%20in.png" width="300"> | <img src="https://github.com/shoroogalsubhi/brmjha-projects-screenshots/blob/main/screenshots/sign%20up.png" width="300">
+All posts                |      Add post
+<img src="https://github.com/shoroogalsubhi/brmjha-projects-screenshots/blob/main/screenshots/all%20posts.png" width="300"> | <img src="https://github.com/shoroogalsubhi/brmjha-projects-screenshots/blob/main/screenshots/add%20post.png" width="300">
+Profile                |
+<img src="https://github.com/shoroogalsubhi/brmjha-projects-screenshots/blob/main/screenshots/profile.png" width="300"> |
 
