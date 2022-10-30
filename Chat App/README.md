@@ -1,6 +1,10 @@
 # Chat App
 Chat application for exchanging conversations
 
+# Tools
+- Dart [Frontend]
+- Firebase [Backend]
+
 
 # Screenshot
 Start page                |Sign in                |      Sign up
