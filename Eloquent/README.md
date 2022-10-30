@@ -3,7 +3,7 @@ The Eloquent application aims to help school-aged children who stutter to improv
 
 # Tools
 - Java [Android Frontend]
-- phpMyAdmin [Android Frontend]
+- phpMyAdmin [Backend]
 - Python [Artificial Intelligence (AI) Model]
 
 # Screenshot
