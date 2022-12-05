@@ -2,7 +2,7 @@
 Chat application for exchanging conversations
 
 # Tools
-- Dart [Frontend]
+- Dart (Flutter)[Frontend]
 - Firebase [Backend]
 
 
