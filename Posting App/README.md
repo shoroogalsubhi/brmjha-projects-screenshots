@@ -2,6 +2,8 @@
 
 A simple app for adding and liking, sharing posts.
 
+# Tools
+- Dart (Flutter)[Frontend]
 
 # Screenshot
 Sign in                |      Sign up
